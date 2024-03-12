@@ -2,7 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://med.cgabc.xyz/</loc>
-         <lastmod>2024-03-07</lastmod>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/benchmark/dataset/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/medical_img/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/medical_img/app/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/medical_img/brain_imaging/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/medical_img/coordinate/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/medical_img/img_processing/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/pacs/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://med.cgabc.xyz/tutorial/</loc>
+         <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

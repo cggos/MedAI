@@ -89,4 +89,19 @@ extra:
       name: CGABC on Twitter
         
 nav:
-  - Home: 'index.md'
+  - Home: 
+    - Overview: 'index.md'
+
+  - Medical Image:
+    - Overview: medical_img/README.md
+    - Imaging Coordinate: medical_img/coordinate.md
+    - Image Processing: medical_img/img_processing.md
+    - Brain Imaging: medical_img/brain_imaging.md
+    - Applications: medical_img/app.md
+  
+  - PACS: pacs/README.md
+
+  - Benchmark: benchmark/dataset.md
+  
+  - Tutorial: 
+    - Overview: tutorial/README.md
